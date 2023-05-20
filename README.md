@@ -30,3 +30,5 @@ Skills: Huffman Coding, Op-Amps, OrCAD
 - We are getting the following output waveform from the circuit:
 
   <img width="960" alt="image" src="https://github.com/Mehul-Kumar-Sahoo/Commnet23_PS1/assets/93527557/6baad4f8-0775-4a5c-ae23-a2f0a917b86e">
+
+- [The complete approach to the Problem Statement can be viewed here.](https://github.com/Mehul-Kumar-Sahoo/Commnet23_PS1/blob/main/Commnet23_ps1_Explaination.pdf)
